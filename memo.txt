@@ -1,0 +1,7 @@
+1. npx create-next-app . --use-npm
+2. npm i tailwindcss
+3. npm run dev > localhost:3000にアクセス Welcome to Next.js!が表示されたらOK
+4. tailwindcssのHP > getstarted > Next.js の内容を実行
+next.js memo
+pages
+    ブラウザのページ遷移の１つ１つに関連している
